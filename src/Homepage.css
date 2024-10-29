@@ -1,0 +1,19 @@
+.homepage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.homepage__navWraper {
+  position: relative;
+  flex: 0.2;
+}
+
+.homepage__timeline {
+  /* flex: 0.8;
+  justify-content: center; */
+  display: flex;
+  /* flex-wrap:wrap; */
+  justify-content: center;
+  align-items: center;
+}
